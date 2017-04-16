@@ -1,0 +1,2 @@
+User-agent: SSG_Browser
+Diasllow: * 
